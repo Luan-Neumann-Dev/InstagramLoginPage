@@ -2,28 +2,32 @@
 
 ![image](https://github.com/Luan-Neumann-Dev/InstagramLoginPage/assets/155394874/5e791097-d06f-4349-8cf8-41d221a112e9)
 
-Este é um projeto que replica a página de login do Instagram. Foi desenvolvido como parte de um curso de HTML e CSS, com o objetivo de praticar técnicas de design responsivo.
+## Overview 🌟
+This project is a replica of the Instagram login page, created for educational purposes. It was developed to practice front-end development skills, including HTML, CSS, and responsive design techniques.
 
-## Visão Geral
+## Features 🚀
 
-Este projeto é uma cópia da página de login do Instagram, feita para fins educacionais. Ele foi criado para treinar habilidades de desenvolvimento front-end, incluindo HTML, CSS e design responsivo.
+- Faithfully replicates the Instagram login page.
+- Fully responsive, ensuring a consistent experience across devices of different sizes.
+- Includes a Tic Tac Toe game for added fun. Play now! 🎮
 
-## Funcionalidades
+## How to View 👀
 
-- Replica fielmente a página de login do Instagram.
-- Totalmente responsivo, garantindo uma experiência consistente em dispositivos de diferentes tamanhos.
+You can view the project by following these steps:
 
-## Como Visualizar
+1. Clone this repository.
+2. Open the file: `index.html`
 
-Você pode visualizar o projeto seguindo estes passos:
+## Prefer live demo? 💻
+If you prefer, you can check out the project in real-time by [Istagram Login Page](https://luan-neumann-dev.github.io/InstagramLoginPage/)
 
-1. Clone este repositório.
-2. Abra o script: `index.html`
+## Notes 📝
+This project is merely a static copy of the Instagram login page. It does not have form submission functionalities or backend integration. It was developed exclusively for educational and practice purposes.
 
-## Observações
-Este projeto é apenas uma cópia estática da página de login do Instagram. Não possui funcionalidades de envio de formulário ou integração com backend. Foi desenvolvido exclusivamente para fins educacionais e de prática.
+## Contributions 🤝
+Contributions are welcome! Feel free to open issues or send pull requests with suggestions for improvements or fixes.
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões de melhorias ou correções.
+---
+You can also find me on [LinkedIn](https://www.linkedin.com/in/luan-henrique-neumann-362593267/) and [GitHub](https://github.com/Luan-Neumann-Dev).
 
-<sub>Este projeto foi desenvolvido ao longo do curso de Javascript dentro da comunidade Hora de Codar - Matheus Battisti</sub>
+<sub>This project was developed throughout the JavaScript course within the Hora de Codar community - Matheus Battisti</sub>
